@@ -1,10 +1,10 @@
 # SMK25 — Complete Protocol Reference & Zynthian Driver
 
-A reverse-engineered protocol guide for the SINCO SMK25 MIDI controller,
+A reverse-engineered protocol guide for the SINCO(MVAVE) SMK25 MIDI controller,
 plus a Zynthian control device driver that auto-configures the device on
 startup via SysEx — **no MidiSuite desktop app required**.
 
-> **Hardware tested**: SINCO SMK25 (USB VID `0x4353`, PID `0x4B4D`, Version 1.00)
+> **Hardware tested**: SINCO (MVAVE) SMK25 (USB VID `0x4353`, PID `0x4B4D`, Version 1.00)
 
 ---
 
